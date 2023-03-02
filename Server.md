@@ -1,2 +1,5 @@
-Server
+## Server
 
+### Builder
+- Lombok
+- 
